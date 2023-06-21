@@ -1,0 +1,13 @@
+name: PYTN_Assgn_2_4_Ardi Yuliantoro
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - jupyter
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - seaborn
+  - matplotlib
